@@ -1,0 +1,6 @@
+name: BadDuperNoTNT
+version: '${project.version}'
+main: lol.nightshade.baddupernotnt.BadDuperNoTNT
+api-version: '1.17'
+description: Prevents containers from being broken while in use, preventing the TNT Chest dupe and other related container content dupes.
+author: therealserver

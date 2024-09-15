@@ -1,0 +1,9 @@
+# BadDuperNoTNT Configuration :3
+
+# Set to true to enable extensive debugging
+debug: false
+
+messages:
+  break: "This container is currently in use and cannot be broken."
+  explode: "A protected container prevented an explosion."
+  move: "A protected container cannot be moved."
